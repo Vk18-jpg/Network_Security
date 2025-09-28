@@ -1,5 +1,6 @@
 python-dotenv
 pandas
+joblib
 numpy
 pymongo
 certifi
