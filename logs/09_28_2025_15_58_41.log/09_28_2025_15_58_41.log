@@ -1,6 +1,0 @@
-[ 2025-09-28 15:58:47,251 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
-[ 2025-09-28 15:58:47,259 ] 107 dagshub - INFO - Accessing as Vk18-jpg
-[ 2025-09-28 15:58:47,717 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/Vk18-jpg/Network_Security "HTTP/1.1 200 OK"
-[ 2025-09-28 15:58:48,133 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
-[ 2025-09-28 15:58:48,138 ] 107 dagshub - INFO - Initialized MLflow to track repo "Vk18-jpg/Network_Security"
-[ 2025-09-28 15:58:48,139 ] 107 dagshub - INFO - Repository Vk18-jpg/Network_Security initialized!
